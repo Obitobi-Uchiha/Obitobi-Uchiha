@@ -1,13 +1,9 @@
 ### Ich weiß nicht was ich hier mache 
 
 
-**Obitobi-Uchiha/Obitobi-Uchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# and Python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fingadumbledore&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=fingadumbledore&show_icons=true&theme=dark)
+
+[![](https://streak-stats.demolab.com/?user=fingadumbledore&theme=dark)](https://git.io/streak-stats)

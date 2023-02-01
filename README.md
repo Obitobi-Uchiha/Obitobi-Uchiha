@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C# and Python 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fingadumbledore&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=fingadumbledore&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Obitobi-Uchiha&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Obitobi-Uchiha&show_icons=true&theme=dark)
 
-[![](https://streak-stats.demolab.com/?user=fingadumbledore&theme=dark)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=Obitobi-Uchiha&theme=dark)](https://git.io/streak-stats)

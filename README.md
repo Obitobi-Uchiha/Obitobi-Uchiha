@@ -38,4 +38,4 @@ Denn Graf Zahl zeigt uns, was wirklich ist und wahr.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Obitobi-Uchiha&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=Obitobi-Uchiha&show_icons=true&theme=dark)
 
-[![](https://streak-stats.demolab.com/?user=Obitobi-Uchiha&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Obitobi-Uchiha&theme=dracula&hide_border=true)](https://git.io/streak-stats)
